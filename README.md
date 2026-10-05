@@ -1,6 +1,6 @@
 # SWYNEX Exploratory Data Analysis
 
-This project explores cafe sales data using SQL and Microsoft Excel.
+This project explores cafe sales data using Microsoft Excel.
 
 ## Project Goal
 
